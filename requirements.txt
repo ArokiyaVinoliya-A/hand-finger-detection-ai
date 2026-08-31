@@ -1,2 +1,3 @@
+gradio
 opencv-python
 mediapipe
