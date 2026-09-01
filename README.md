@@ -12,10 +12,14 @@ The project focuses on detecting hand fingers 🤚 and visualizing skeleton line
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 👁️ Computer Vision
+- 
+## 👥 Team Project
 
-## 👥 Project Type
+This project was collaboratively developed by two internship teammates during our internship at CodeBind Technologies, Chennai.
 
-**Collaborative Team Project** 🤝
+**Team Size:** 2
+
+**Project:** Hand Finger Detection & Skeleton Lines
 
 ## 🏢 Internship
 
@@ -32,5 +36,7 @@ Successfully completed the project internship at CodeBind Technologies, Chennai.
 **Project:** Hand Finger Detection and Skeleton Lines using Python with Artificial Intelligence & Machine Learning
 
 **Duration:** 9 June 2026 – 13 June 2026
+
+**Project Type:** Collaborative Team Project
 
 ![Project Completion Certificate](certificate1.jpeg)
